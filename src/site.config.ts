@@ -37,7 +37,7 @@ const unvalidatedConfig = {
   author: {
     name: 'Felipe Vandevelde',
     bio: 'A passionate developer.',
-    githubUsername: 'octocat',
+    githubUsername: 'FelipeVandevelde',
   },
   brand: '~/felipe-dev',
   siteUrl: 'https://dev-garden-portfolio.vercel.app',

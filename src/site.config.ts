@@ -40,7 +40,7 @@ const unvalidatedConfig = {
     githubUsername: 'octocat',
   },
   brand: '~/felipe-dev',
-  siteUrl: 'https://portifolio-garden.netlify.app',
+  siteUrl: 'https://dev-garden-portfolio.vercel.app',
   social: [
     { name: 'GitHub', url: 'https://github.com/FelipeVandevelde' }
   ],
